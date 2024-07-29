@@ -15,7 +15,6 @@
 - [License](#license)
 - [Citation](#citation)
 - [Technologies Used](#technologies-used)
-- [Acknowledgments](#acknowledgments)
 - [Next Steps](#next-steps)
 - [Support](#support)
 
@@ -24,6 +23,7 @@ This project performs the regression analysis of the Wages of the employees all 
 
 The entire study is done in the cloud environment utilizing the "Azure ML studio" and the models are deploiyment in the cloud environment itself. 
 
+This project was inspired by recent concerns and changes pertaining to employment in the United States along with its impact in business intelligence.
 
 ## Data Assets
 
@@ -136,10 +136,7 @@ The below are few of the technologies used in this project.
 * Scikit-learn
 * Matplotlib
 * LightGBM
-## Acknowledgments
 
-Thanks to the Hugging Face team for their excellent NLP tools and models.
-This project was inspired by recent concerns and changes pertaining to employment in the United States along with its impact in business intelligence.
 
 ## Next Steps
 This project can further be enahced by incorporating some more valuable information like the employees' domain, country, ... etc and can be fully hosted on live data if the cloud subscruption is active.
