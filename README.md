@@ -1,7 +1,7 @@
 #### Azure-ML-US-Wage-Regression-Analysis
 
 
-# US State Wise Wages Analysis using Azure ML
+# US State Wise Wages Analysis using Azure Machine Learning
 
 ## Table of Contents
 - [Overview](#overview-of-the-study)
